@@ -1,0 +1,9 @@
+.Header{
+    background-color: #6278F7;
+    border: 0;
+    padding: 0;
+}
+
+.Header img{
+    max-width: 100%;
+}
